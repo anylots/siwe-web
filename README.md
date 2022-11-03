@@ -1,6 +1,6 @@
-# AD3Hub
+# siwe web
 
-This repository contains a sample project that you can play campaign;
+This repository contains a sample project that you can use siwe on frontend;
 
 ## How to deploy
 
